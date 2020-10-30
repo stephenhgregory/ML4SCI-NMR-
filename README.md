@@ -1,5 +1,6 @@
 
-# Hackathon - NMR Challenge
+# VisEcho
+## By Stephen Gregory and Stephen Kirby
 
 <a href="https://colab.research.google.com/drive/1X0AfFm0FzBzKkzjryeGjrzdpMj1EkLso#scrollTo=yEdDGzR0R6Zb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
